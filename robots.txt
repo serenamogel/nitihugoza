@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nitihugoza.pages.dev/sitemap.xml
